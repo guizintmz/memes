@@ -1,0 +1,94 @@
+
+    .gif-container {
+        width: 300px; /* largura desejada para o GIF */
+        height: 300px; /* altura desejada para o GIF */
+        background-image: url('tobey-cry.gif');
+        background-size: cover; /* ajusta o tamanho do GIF ao contêiner */
+    }
+    .orca {
+        width: 300px; /* largura desejada para o GIF */
+        height: 300px; /* altura desejada para o GIF */
+        background-image: url('monkey.gif');
+        background-size: cover; /* ajusta o tamanho do GIF ao contêiner */
+        position: absolute;
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .bob {
+        width: 300px; /* largura desejada para o GIF */
+        height: 300px; /* altura desejada para o GIF */
+        background-image: url('spongebob-meme.gif');
+        background-size: cover; /* ajusta o tamanho do GIF ao contêiner */
+        float: right;
+        position: absolute;
+        top: 0;
+        right: 0;
+       
+    }
+    .saxixa {
+        width: 300px; /* largura desejada para o GIF */
+        height: 300px; /* altura desejada para o GIF */
+        background-image: url('macarena-salsicha-macarena.gif');
+        background-size: cover;
+        position: absolute;
+        top: 0;
+        right: 51%;
+        transform: translateX(-50%);
+    }
+        .shrek {
+            width: 300px; /* largura desejada para o GIF */
+            height: 300px; /* altura desejada para o GIF */
+            background-image: url('shrek.gif');
+            background-size: cover; /* ajusta o tamanho do GIF ao contêiner */
+            position: absolute;
+            top: 0;
+            left: 67%;
+            transform: translateX(-50%);
+         }
+        
+        
+      .rick  {
+         width: 300px; /* largura desejada para o GIF */
+         height: 300px; /* altura desejada para o GIF */
+         background-image: url('rick-and-morty-mr-nimbus.gif');
+         background-size: cover; 
+        }
+        .walter {
+            width: 300px; /* largura desejada para o GIF */
+            height: 300px; /* altura desejada para o GIF */
+            background-image: url('walter-white-breaking-bad.gif');
+            background-size: cover;
+           position: absolute;
+            top: 42%;
+            right: 60%;
+        }
+        .cat {
+            width: 300px; /* largura desejada para o GIF */
+            height: 300px; /* altura desejada para o GIF */
+            background-image: url('cat-cats.gif');
+            background-size: cover; /* ajusta o tamanho do GIF ao contêiner */
+            position: absolute;
+            top: 42%;
+            right: 40%;
+           
+        }
+        .family{
+            width: 300px; /* largura desejada para o GIF */
+            height: 300px; /* altura desejada para o GIF */
+            background-image: url('family-guy-dance.gif');
+            background-size: cover; /* ajusta o tamanho do GIF ao contêiner */
+            position: absolute;
+            top: 42%;
+            right: 20%;
+        }
+        .reels{
+            width: 300px; /* largura desejada para o GIF */
+            height: 300px; /* altura desejada para o GIF */
+            background-image: url('reels-funny-memes.gif');
+            background-size: cover; /* ajusta o tamanho do GIF ao contêiner */
+            float: right;
+            position: absolute;
+            top: 42%;
+            right: 0;
+        }
